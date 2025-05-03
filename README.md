@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/vj-presidio-specif-ai-mcp-server-badge.png)](https://mseep.ai/app/vj-presidio-specif-ai-mcp-server)
+
 # @vj-presidio/specif-ai-mcp-server
 
 A CLI tool that runs an MCP (Model Context Protocol) server over stdio for [Specif-ai](https://github.com/presidio-oss/specif-ai).
